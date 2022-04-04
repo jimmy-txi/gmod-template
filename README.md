@@ -1,7 +1,7 @@
 # gmod-template
 
 # Extension (Step 1: Download)
-USE THIS FOR CHROME/OPERA (  )
+USE THIS FOR CHROME/OPERA ( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en )
 
 USE THIS FOR FIREFOX ( https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/ )
 
